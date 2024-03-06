@@ -1,0 +1,27 @@
+Variable,Variable Description
+Group Quarters Population,"Population living in group quarters (non-households such as dormitories, nursing homes, or correctional facilities)"
+Household Population,Population living in households
+Households,Occupied housing units
+Housing Units,Occupied and vacant housing units
+Industrial Employment,"Jobs related to industrial industries and/or land uses (e.g. warehousing, manufacturing)"
+Labor Force,Residents participating in the labor force (either employed or actively seeking work)
+Office Employment,"Jobs related to office industries and/or land uses (e.g. finance, headquarters, medical offices)"
+Other Employment,"Jobs related to other industries and/or land uses (e.g. hospitals, schools and universities, agriculture)"
+Population,Population living in households and group quarters
+Population - Confidence Limit (upper) ,Upper confidence limit for for population projections. (1)
+Population - Confidence Limit (lower),Lower confidence limit for for population projections.  (1)
+Population - 80% Prediction Interval (+),Difference between the upper confidence limit and the forecasted population (1)
+Population - 80% Prediction Interval (-),Difference between the lower confidence limit and the forecasted population  (1)
+Population Under 18,Population under age 18
+Retail Goods Employment,"Jobs related to retail goods industries and/or land uses (e.g. grocery stores, clothing stores, hardware stores)"
+Retail Services Employment,"Jobs related to retail services industries and/or land uses (e.g. restaurants, dry cleaners)"
+Total Employment,Total jobs
+Workers,Residents employed with one or more jobs
+,
+10-County Region,"Delaware, Fairfield, Franklin, Knox, Licking, Madison, Marion, Morrow, Pickaway, and Union counties in Ohio"
+15-County Region,"Delaware, Fairfield, Fayette, Franklin, Hocking, Knox, Licking, Logan, Madison, Marion, Morrow, Perry, Pickaway, Ross, and Union counties in Ohio"
+,
+,
+"Notes:
+
+(1) Confidence limit and confidence interval refer to the statistical confidence that the true value will fall between the upper and lower limit based on how well the forecasting model fits the historic data. For county-level forecasts, the confidence intervals/limits represent the 80% confidence level.  For region-level forecasts, the confidence intervals/limits are the sum of the county-level intervals, therefore the confidence  level is unspecified.  The confidence intervals/limits do not account for any non-historic factors - such as expected economic developments - which may be included in the forecast, therefore it is possible that the forecast may exceed the confidence limits in some situations.",

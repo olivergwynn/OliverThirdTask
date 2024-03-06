@@ -1,0 +1,21 @@
+Date,Sheet affected,Description of changes
+2023-04-28,Jobs,Corrected misallocation of jobs related to specific economic developments.  Previously all jobs (direct and induced) associated with an economic development were allocated amongst all counties in the region according to population density and travel time to the facility.  This change reallocated *direct jobs only* from other counties back to the county where the development is located based on the assumption that most workers at these developments will travel to the facility for work.  Induced jobs remain allocated as before based on the assumption that most of these jobs will be located where people live.
+2023-05-11,Jobs,Updated jobs forecasts to better account for sole proprietors.
+2023-05-12,"Group Quarters and Households
+Household Population by Age","Corrected error in computation of group quarters population, total household population, and household population by age."
+2023-06-05,Population by Age,Realigned 2020 baseline with estimates from Census Population Estimates Program to ensure consistency with total population forecasts.  Previously used 2020 decennial counts as baseline.  Rounded population by age forecasts to the nearest integer and adjusted forecasts to correct for rounding error to ensure the sum of the population of the groups is equal to the total population.
+2023-06-05,Group Quarters and Households,"Updated select inputs to use more recent data.  Rounded group quarters population and household population forecasts to the nearest integer and adjusted forecasts to correct for rounding error to ensure the sum of the population of the groups is equal to the total population.  Additionally, these variables may have been impacted by upstream changes to forecasts of population by age."
+2023-06-05,Household Population by Age,"Rounded household population by age forecasts to the nearest integer and adjusted forecasts to correct for rounding error to ensure the sum of the population of the groups is equal to the total household population.  Additionally, these variables may have been impacted by upstream changes to forecasts of population by age and household population."
+2023-06-05,Households and Housing Units,"Rounded forecasts of households and housing units to the nearest integers.  Additionally, these variables may have been impacted by upstream changes to forecast of household population."
+2023-06-05,Residential Labor Force,"Rounded forecasts of labor force and workers to the nearest integers.  Additionally, these variables may have been impacted by upstream changes to forecasts of population by age."
+2023-06-05,All Data (Unformatted),Updated values as required.  Added population confidence limit variables (upper and lower).  Reformatted negative numbers using a minus sign instead of parentheses.
+2023-06-05,Population Chart Data,Added notes that this table is intended is for chart construction purposes only.
+2023-06-05,Variable Dictionary,Added variable definitions for confidence limit variables.  Added explanatory note for confidence intervals.
+2023-06-05,(All sheets),Enabled workbook protection (no password)  to avoid inadvertent changes.
+2023-07-25,Population by Age,Added estimates for 2021
+2023-07-25,Group Quarters and Households,Added estimates for 2021
+2023-07-25,Household Population by Age,Added estimates for 2021
+2023-07-25,Households and Housing Units,Added estimates for 2021
+2023-07-25,Residential Labor Force,Added estimates for 2021
+2023-07-25,Jobs,Added estimates for 2021
+2023-07-25,All Data (Unformatted),Added estimates for 2021
